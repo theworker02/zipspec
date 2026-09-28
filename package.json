@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/zipspec",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zip numeric spec values, ranges, and human-readable units.",
+  "bin": {
+    "zipspec": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/zipspec.git"
+  },
+  "homepage": "https://theworker02.github.io/zipspec/",
+  "keywords": [
+    "zip",
+    "spec",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
